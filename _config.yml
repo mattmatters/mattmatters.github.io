@@ -102,6 +102,12 @@ projects:
   - name: Flushing Reality
     url: https://flushingreality.com
     description: "Blog about bathrooms in video games"
+  - name: JPEG Dog
+    url: https://jpeg.dog
+    description: "A dedication to all JPEG dogs"
+  - name: Momento Mori
+    url: https://momentomori.herokuapp.com
+    description: "A reminder of your average life span"
   - name: Elair
     url: https://github.com/mattmatters/elair
     description: "CLI for airport information"
